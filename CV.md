@@ -10,7 +10,7 @@ I combine hands-on paid acquisition with marketing analytics and automation. My 
 
 ## Core expertise
 
-**Advertising platforms:** Meta, LinkedIn, Reddit, X (Twitter), Telegram, VK, Outbrain.
+**Advertising platforms:** Meta, LinkedIn, Reddit, X (Twitter), Telegram, VK.
 
 **Analytics & tracking:** Web analytics and funnel reporting (GA4); browser and server-side conversion tracking (GTM, conversion APIs); tracking standards and consent management.
 
@@ -26,7 +26,7 @@ European B2B fintech · Confidential client | Apr 2025 - Present
 
 Client identity and commercial performance metrics are confidential.
 
-- Manage paid acquisition across Meta, LinkedIn and native advertising for two B2B product lines; developed a 12-week LinkedIn campaign programme for two buyer personas.
+- Manage paid acquisition across Meta and LinkedIn (main), plus Reddit, X and Telegram Ads for two B2B product lines; developed a 12-week LinkedIn campaign programme for two buyer personas.
 - Implemented website analytics and conversion tracking to measure user journeys and form submissions across a multilingual product website.
 - Replaced broad click triggers with allowlist-based tracking and audited web and server-side GTM to validate trigger isolation and conversion deduplication.
 - Added page-path and customer-type dimensions for segmented funnel analysis; implemented conversion API tracking with event deduplication and Consent Mode.
